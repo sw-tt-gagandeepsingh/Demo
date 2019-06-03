@@ -36,6 +36,6 @@ System.out.println("Your name"+text.getText());
 driver.quit();
 }//testing comment is added here////////
 //testing data is here
-//added now commnet
+//added now commnets
 
 }
