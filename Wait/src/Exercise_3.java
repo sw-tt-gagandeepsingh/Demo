@@ -34,8 +34,6 @@ a1.accept();
 WebElement text = driver.findElement(text_xpath);
 System.out.println("Your name"+text.getText());
 driver.quit();
-}//testing comment is added here////////
-//testing data is here
-//added now commnets
+}//Branch code 
 
 }
